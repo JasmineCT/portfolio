@@ -24,7 +24,7 @@ patterns:
     fields:
       - name: service description
         type: string
-        example: "This is a descroption about branding and howe i brand different type of clients using a technique i will go into depth later on"
+        example: "This is a descroption about branding and how i brand different type of clients using a technique i will go into depth later on"
     fields:
       - name: price
         type: string
