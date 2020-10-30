@@ -8,14 +8,20 @@ metadecription: "Get a sneak peak at those weird thoughs Jasmine Carlucci-Tangua
 highlight_nav: projects
 ---
 <main class="case-pad-t-3-4-s case-pad-t-3-4-l" role="main" tabindex="0" id="main">
-  <div>
-    <ul class="list-group-inline text-center gutter-1-2">
-    <li class="gutter-1-2">
-      {% pattern buttons/ghost-purple text="#NovaScotiaStrong" url="/novascotiastrong" %}
-    </li>
-    <li class="gutter-1-2">
-      {% pattern buttons/ghost-purple text="The Pie Hole" url="#" %}
-    </li>
-  </ul>
+  <div class="island-2 page-width">
+    <div class="text-center pad-b-2">
+      <h2 class="font-cursive">Campaign Design</h2>
+      <h3 class="font-three">Canadian Blood Services</h3>
+    </div>
+    <div>
+      <ul class="list-group-inline text-center gutter-1-2">
+        <li class="gutter-1-2 {% if page.highlight_nav =='novascotiastrong' %}current-blue{% endif %}">
+          {% pattern buttons/ghost-purple text="#NovaScotiaStrong" url="/novascotiastrong.html" %}
+        </li>
+        <li class="gutter-1-2 {% if page.highlight_nav =='thepiehole' %}current-blue{% endif %}">
+          {% pattern buttons/ghost-purple text="The Pie Hole" url="/thepiehole.html" %}
+        </li>
+      </ul>
+    </div>
   </div>
 </main>
