@@ -68,3 +68,8 @@
   border: solid 3px var(--color-secondary-light-blue);
   color: var(--color-primary-purple);
 }
+
+.next-prev {
+  padding: 8px 16px;
+  color: var(--color-primary-purple);
+}
