@@ -113,5 +113,10 @@ highlight_nav: projects
       </div>
     </div>
 
+    <div class="next-prev-btns">
+      {% pattern buttons/previous url=include.data.prev_url %}
+      {% pattern buttons/next url=include.data.next_url %}
+    </div>
+
   </div>
 </main>
