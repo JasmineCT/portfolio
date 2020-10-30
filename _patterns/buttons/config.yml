@@ -82,3 +82,25 @@ patterns:
       - name: url
         type: url
         example: "#"
+  next:
+    title: "Next"
+    description: This button is to be used to go to the next project
+    width: 200
+    fields:
+      - name: text
+        type: string
+        example: "Next"
+      - name: url
+        type: url
+        example: "/novascotiastrong.html"
+  previous:
+    title: "Next"
+    description: This button is to be used to go to the previous project
+    width: 200
+    fields:
+      - name: text
+        type: string
+        example: "Previous"
+      - name: url
+        type: url
+        example: "/_case-study/adlc"
