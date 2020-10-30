@@ -72,3 +72,8 @@
 .next-prev {
   padding: 8px 16px;
 }
+
+.next-prev-btns {
+  display: flex;
+  justify-content: center;
+}
