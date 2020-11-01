@@ -1,10 +1,10 @@
 ---
 layout: magazine
-title: “Magazine Article Layout”
+title: Magazine Article Layout
 client: Anonymous
-date-created: “June 10, 2020”
-intro: “GEM Magazine two article layouts. The non-profit organization decided to stay anonymous during the design process. The organization has a magazine that gets distributed within their community, and wanted to have a fun new layout to some of the articles going into the new issue. They tasked me with designing two of their article layouts to fit in their magazine.”
-brief: “Create two fun magazine layouts for two different articles that are going into an existing magazine”
+date-created: June 10, 2020
+intro: GEM Magazine two article layouts. The non-profit organization decided to stay anonymous during the design process. The organization has a magazine that gets distributed within their community, and wanted to have a fun new layout to some of the articles going into the new issue. They tasked me with designing two of their article layouts to fit in their magazine.
+brief: Create two fun magazine layouts for two different articles that are going into an existing magazine
 role: "I was tasked to layout two different articles with a fun and modern look and feel to them, while still staying unified to the existing magazine."
 objective: "The objective is to create fun and modern article layouts for the new issue of the magazine."
 homework: "The client had some reference magazine articles that showcase the look and feel they wanted to go for in the new designs."
